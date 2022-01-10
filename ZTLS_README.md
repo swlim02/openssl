@@ -7,7 +7,7 @@
 make depend && make
 
 ### Install
-make install
+sudo make install
 
 ## TroubleShooting
 
